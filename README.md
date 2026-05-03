@@ -1,4 +1,4 @@
-#Omnichannel Retail Sales & Inventory Analytics
+Omnichannel Retail Sales & Inventory Analytics
 
 Project Overview
 This project analyzes retail sales and inventory data across multiple channels to uncover actionable insights.
